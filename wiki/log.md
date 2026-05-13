@@ -1,0 +1,1 @@
+2026-05-12 | FINAL | Structure | Completed all cross-linking: Updated wiki/index.md, models/models/gan.md, etc., to correctly link theory models to applications. Deleted redundant entry: wiki/models/generative-models-overview.md.

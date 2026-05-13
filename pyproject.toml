@@ -1,0 +1,20 @@
+[project]
+name = "gan-vault"
+version = "0.1.0"
+description = "Slide conversion tools for GAN-vault"
+authors = [
+    {name = "nicolotermine"}
+]
+readme = "README.md"
+requires-python = "^3.13"
+dependencies = [
+    "pymupdf4llm (>=1.27.2.3,<2.0.0.0)"
+]
+
+
+[project.scripts]
+convert-slides = "convert_slides:main"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
