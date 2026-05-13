@@ -12,7 +12,7 @@ import argparse
 import sys
 from pathlib import Path
 
-SLIDES_DIR = Path("raw/slides")
+SLIDES_DIR = Path("../raw/slides")
 OUTPUT_DIR = Path("raw/slides-md")
 
 
