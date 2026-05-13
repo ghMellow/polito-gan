@@ -1,0 +1,15 @@
+.obsidian/
+*.lock
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+.DS_Store
